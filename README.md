@@ -1,6 +1,7 @@
 # Coffee Shop Sales Analysis
 
 **Author:** Chinmay Kumar Gupta
+
 **Tool:** Microsoft Excel (Pivot Tables, Charts, KPIs, Slicers)
 
 ---
